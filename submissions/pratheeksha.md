@@ -22,4 +22,7 @@
         >  ^  < 🎒 📚
         💻💻💻
 
+
+# I found the flag:
+Flag: FOSS{git_my_life_}
         
